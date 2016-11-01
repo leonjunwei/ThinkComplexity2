@@ -1,3 +1,5 @@
+import random
+
 class Worse_TitForTat_Leon():  
     def step(self, history, round):
         ''' 
